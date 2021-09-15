@@ -1,0 +1,11 @@
+{
+  "name": "my-module",
+  "version": "1.0.0",
+  "main": "TestComponent.jsx",
+  "dependencies": {
+  },
+  "peerDependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
